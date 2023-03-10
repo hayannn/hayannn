@@ -45,22 +45,19 @@
 <br>
 
 #### 📍etc.
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" >
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 
 ---
 
-### :pencil2: Study log
- 
-  <br/>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&exclude_repo=hayannn.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayannn&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+### My Github info💡
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=true">
   
+---
+  
+### :pencil2: Study log
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlgkdis801&color=dark)](https://velog.io/@dlgkdis801)
 </div>
