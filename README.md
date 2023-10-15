@@ -60,4 +60,6 @@
   
 ### :pencil2: Study log
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlgkdis801&color=dark)](https://velog.io/@dlgkdis801)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlgkdis801&color=dark)](https://velog.io/@dlgkdis801)
 </div>
