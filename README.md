@@ -59,7 +59,6 @@
 ---
   
 ### :pencil2: Study log
-(https://github.com/eungyeole/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlgkdis801)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlgkdis801)](https://velog.io/@dlgkdis801)
 
 </div>
