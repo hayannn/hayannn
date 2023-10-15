@@ -6,7 +6,7 @@
 안녕하세요!<br>
 백엔드 개발자를 꿈꾸는 이하얀입니다.<br>
 현재 대학 재학중이며, 개발을 하고자 하는 이유를 끊임없이 고민하며 언제나 함께하고 싶은 개발자가 되기 위해 공부하고 있습니다.<br>
-관련된 기록은 제 [velog](https://velog.io/@dlgkdis801)를 참고해주세요!!
+관련된 기록은 제 [velog](https://velog.io/@dlgkdis801)와 [Portfolio](https://hayanlee.notion.site/hayanlee/0e89f3a2c1b34fff9b83ccd5ca0716ea)를 참고해주세요!!
 
 ---
   
