@@ -54,7 +54,7 @@
 
 ### My Github info💡
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=truecontribs&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=true&hide=stars,contribs&count_private=true">
 
 ---
   
