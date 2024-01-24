@@ -66,3 +66,14 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlgkdis801)](https://velog.io/@dlgkdis801)
 
 </div>
+
+---
+
+### Pin 🎯
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=humax-sw-team16&repo=Parking_Server&show_owner=true)](https://github.com/humax-sw-team16/Parking_Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-christmas-6-hayannn&show_owner=true)](https://github.com/hayannn/java-christmas-6-hayannn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sgdevcamp2022&repo=allin&show_owner=true)](https://github.com/sgdevcamp2022/allin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=JJ_Club_backend&show_owner=true)](https://github.com/hayannn/JJ_Club_backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=JJ_Club_backend_chat&show_owner=true)](https://github.com/hayannn/JJ_Club_backend_chat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=Min_MedicalBlind_Spots_Bigdata&show_owner=true)](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-oasis-hackathon&repo=How-about-Yeosu-&show_owner=true)](https://github.com/2022-oasis-hackathon/How-about-Yeosu-)
