@@ -1,4 +1,3 @@
-![snake gif](https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg)
 <div> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=hayannn🚗🚘🚛&fontAlign=50)
@@ -86,3 +85,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-lotto-6&show_owner=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&)](https://github.com/hayannn/java-lotto-6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-christmas-6-hayannn&show_owner=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&)](https://github.com/hayannn/java-christmas-6-hayannn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=Min_MedicalBlind_Spots_Bigdata&show_owner=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&)](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata)
+
+
+![snake gif](https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg)
