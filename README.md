@@ -1,6 +1,6 @@
 <div> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=hayannn&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=hayannn&text_color=white&fontAlign=50)
 ##  :wave: Welcome my github profile !
 ### Introduction 🧸
 안녕하세요!<br>
@@ -56,10 +56,10 @@
 
 <img src="https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg"/>
 <a href="https://github.com/hayannn/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=donut&show_icons=true&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=donut&show_icons=true&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
 </a>
 <a href="https://github.com/hayannn/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=true&theme=gradient&hide_border=true&count_private=true&hide=stars" width=58% />
+  <img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=true&theme=gradient&count_private=true&hide=stars" width=58% />
 </a>
 
 ---
