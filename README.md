@@ -56,10 +56,10 @@
 
 <img src="https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg"/>
 <a href="https://github.com/hayannn/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=#000000&icon_color=58A6FF&text_color=fff&title_color=#FFFFFF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
 </a>
 <a href="https://github.com/hayannn/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&hide=stars" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=#000000&icon_color=58A6FF&text_color=fff&title_color=#FFFFFF&count_private=true&hide=stars" width=56% />
 </a>
 
 ---
