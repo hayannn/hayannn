@@ -58,8 +58,9 @@
 <a href="https://github.com/hayannn/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=donut&show_icons=true&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
 </a>
+
 <a href="https://github.com/hayannn/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=true&theme=gradient&count_private=true&hide=stars" width=58% />
+  <img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=true&theme=default&count_private=true&hide=stars" width=50% />
 </a>
 
 ---
