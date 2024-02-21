@@ -2,7 +2,7 @@
 
 <img src="https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg"/>
   
-#  :wave: Welcome my github profile !
+#  :wave: Welcome To My GitHub!
 
 <br>
 
