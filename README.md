@@ -10,13 +10,17 @@
 안녕하세요!<br>
 백엔드 개발자를 꿈꾸는 이하얀입니다.<br>
 개발을 하고자 하는 이유를 끊임없이 고민하며 '기록'하고 '공유'하면서 힘을 얻어 언제나 함께하고 싶은 개발자가 되기 위해 공부하고 있습니다.<br>
-관련된 기록은 제 [velog](https://velog.io/@dlgkdis801)와 [Portfolio](https://hayanlee.notion.site/hayanlee/0e89f3a2c1b34fff9b83ccd5ca0716ea)를 참고해주세요!!
+관련된 기록은 아래 링크를 참고해주세요!!
+
+<br>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlgkdis801)](https://velog.io/@dlgkdis801)
+<a href="https://hayanlee.notion.site/hayanlee/0e89f3a2c1b34fff9b83ccd5ca0716ea"><img width="375" height ="131" alt="포트폴리오4" src="https://github.com/hayannn/hayannn/assets/102213509/3bd2af06-132d-4e28-8202-f8a876fbeab5"></a>
 
 <br>
 <br>
-
----
-
+<br>
+<br>
 <br>
   
 ## Stack ⚒️
@@ -66,12 +70,11 @@
 <br>
 <br>
 <br>
-
----
+<br>
 <br>
 
 
-## My Github info💡
+## Github info💡
 
 <a href="https://github.com/hayannn/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=donut&show_icons=true&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
@@ -82,19 +85,10 @@
 </a>
 <br>
 <br>
-
-
----
-<br>
-
-## :pencil2: Study log
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlgkdis801)](https://velog.io/@dlgkdis801)
-
 <br>
 <br>
 <br>
 
----
 <br>
   
 ## Pin 🎯
