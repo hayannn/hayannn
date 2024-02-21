@@ -1,13 +1,19 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=hayannn&text_color=white&fontAlign=50)
+<img src="https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg"/>
   
 #  :wave: Welcome my github profile !
+
+<br>
+
 ## Introduction 🧸
 안녕하세요!<br>
 백엔드 개발자를 꿈꾸는 이하얀입니다.<br>
 개발을 하고자 하는 이유를 끊임없이 고민하며 '기록'하고 '공유'하면서 힘을 얻어 언제나 함께하고 싶은 개발자가 되기 위해 공부하고 있습니다.<br>
 관련된 기록은 제 [velog](https://velog.io/@dlgkdis801)와 [Portfolio](https://hayanlee.notion.site/hayanlee/0e89f3a2c1b34fff9b83ccd5ca0716ea)를 참고해주세요!!
+
+<br>
+<br>
 
 ---
 
@@ -67,7 +73,6 @@
 
 ## My Github info💡
 
-<img src="https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg"/>
 <a href="https://github.com/hayannn/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=donut&show_icons=true&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
 </a>
