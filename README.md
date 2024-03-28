@@ -78,6 +78,7 @@ Please refer to the link below for related records. <br>
 
 <details>
 <summary><strong>Personal Projects.</strong></summary>
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-baseball-6&show_owner=true)](https://github.com/hayannn/java-baseball-6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-racingcar-6&show_owner=true)](https://github.com/hayannn/java-racingcar-6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-lotto-6&show_owner=true)](https://github.com/hayannn/java-lotto-6)
