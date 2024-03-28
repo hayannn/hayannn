@@ -101,11 +101,12 @@ Please refer to the link below for related records! <br>
 
 <h2>💡 Github Info </h2>
 
+<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlkgdis801)]([https://solved.ac/dlkgdis801](https://solved.ac/profile/dlkgdis801)) <br>
 <a href="https://github.com/hayannn/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=compact&show_icons=true&count_private=true&exclude_repo=Face-Transfer-Application"></a>
 <a href="https://github.com/hayannn/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=true&theme=default&count_private=true&hide=stars"></a>
 
-<br>
 <br>
 
 <details>
