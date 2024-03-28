@@ -107,7 +107,6 @@ Please refer to the link below for related records. <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-oasis-hackathon&repo=How-about-Yeosu-&show_owner=true)](https://github.com/2022-oasis-hackathon/How-about-Yeosu-)
 
 </details>
-<br>
 
 <details>
 <summary><strong>Personal Projects.</strong></summary>
