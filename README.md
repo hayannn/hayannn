@@ -1,15 +1,21 @@
-<img src="https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg"/>
+<div align="center">
   
-<h2 align="center"> 🥳 Hi There! </h2>
+<img src="https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg"/>
+
+</div>
+  
+<h2> 🥳 Hi There! </h2>
 
 I'm HayanLee(hayannn), **Backend developer.** <br>
 Dream of developers who **Record** and **Share** their concerns and grow together.
-- 💡 I like distributing services for users and improving problems.
-- 📑 Organizing and planning are my strengths.
+- 💡 I like distributing services for users and improving problems. <br>
+- 📑 Organizing and planning are my strengths. <br>
 - 🏃‍♀️ I'm studying to improve the inconvenience I personally felt, and boost Backend Performance for handling large amounts of data.
 
-Please refer to the link below for related records. <br>
-✅ [Velog](https://velog.io/@dlgkdis801) &nbsp; ✨ [Portfolio](https://hayanlee.notion.site/400cad5c29f440b592064c651b115ac4?pvs=4) &nbsp; 👩‍💻 [Study Log](https://www.instagram.com/dev_kkongha?igsh=MWxzZnI5M24xOWMzdw==)
+Please refer to the link below for related records! <br>
+✅ [Velog](https://velog.io/@dlgkdis801) &nbsp;&nbsp; ✨ [Portfolio](https://hayanlee.notion.site/400cad5c29f440b592064c651b115ac4?pvs=4) &nbsp;&nbsp; 👩‍💻 [Study Log](https://www.instagram.com/dev_kkongha?igsh=MWxzZnI5M24xOWMzdw==)
+
+<br>
 
 <details>
 <summary><strong>💭 More Information</strong></summary>
@@ -60,7 +66,8 @@ Please refer to the link below for related records. <br>
 
 
   
-## 📚 Tech Stack
+<h2> 📚 Tech Stack </h2>
+
 ### 📂 Language
 > <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
 <br>
@@ -88,7 +95,8 @@ Please refer to the link below for related records. <br>
 <br>
 <br>
 
-## 💡 Github Info
+<h2>💡 Github Info </h2>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlkgdis801)]([https://solved.ac/dlkgdis801](https://solved.ac/profile/dlkgdis801))
 
 <a href="https://github.com/hayannn/github-readme-stats">
