@@ -3,17 +3,13 @@
 <img src="https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg"/>
 
 </div>
-  
+
 <h2> 🥳 Hi There! </h2>
 
 I'm HayanLee(hayannn), **Backend developer.** <br>
-Dream of developers who **Record** and **Share** their concerns and grow together.
-- 💡 I like distributing services for users and improving problems. <br>
-- 📑 Organizing and planning are my strengths. <br>
-- 🏃‍♀️ I'm studying to improve the inconvenience I personally felt, and boost Backend Performance for handling large amounts of data.
-
+Dream of developers who **Record** and **Share** their concerns and grow together. <br><br>
 Please refer to the link below for related records! <br>
-✅ [Velog](https://velog.io/@dlgkdis801) &nbsp;&nbsp; ✨ [Portfolio](https://hayanlee.notion.site/400cad5c29f440b592064c651b115ac4?pvs=4) &nbsp;&nbsp; 👩‍💻 [Study Log](https://www.instagram.com/dev_kkongha?igsh=MWxzZnI5M24xOWMzdw==)
+✅ [Velog](https://velog.io/@dlgkdis801) &nbsp;&nbsp; 🧩 [Portfolio](https://hayanlee.notion.site/400cad5c29f440b592064c651b115ac4?pvs=4) &nbsp;&nbsp; 👩‍💻 [Study Log](https://www.instagram.com/dev_kkongha?igsh=MWxzZnI5M24xOWMzdw==)
 
 <br>
 
@@ -21,8 +17,6 @@ Please refer to the link below for related records! <br>
 <summary><strong>💭 More Information</strong></summary>
 
 ### 🏆 Award.
-#### 수상
-
 > 2022.07   제3회 오아시스해커톤 **최우수상**
 > 
 > - 전남대학교 소프트웨어중심대학사업단
@@ -31,8 +25,9 @@ Please refer to the link below for related records! <br>
 > 
 > - 전주대학교
 
-#### 활동
+<br>
 
+### ✨ Career.
 > 2024.02 - 2024.02  **자기계발 챌린지 빡공단 43기**
 > 
 > - (주)베어유
@@ -52,19 +47,19 @@ Please refer to the link below for related records! <br>
 <br>
 
 ### 🎓 Education
-> - 2020.03 ~ 2024.02 전주대학교 컴퓨터공학과 **과수석** 졸업
+> 2020.03 ~ 2024.02 전주대학교 컴퓨터공학과 **과수석** 졸업
 
 <br>
 
 ### 📑 Certificate
 > 리눅스 마스터 2급
+> 
 > 컴퓨터활용능력 2급
+> 
 > ITQ OA Master
 </details>
 <br>
 <br>
-
-
   
 <h2> 📚 Tech Stack </h2>
 
