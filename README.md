@@ -1,29 +1,19 @@
-<div align="center"> 
-
 <img src="https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg"/>
   
-#  :wave: Welcome To My GitHub!
+# 🥳 About Hayan
+I'm Hayannn, Backend developer. <br>
+Dream of developers who 'record' and 'share' their concerns and grow together.
+- 💡 I like distributing services for users and improving problems.
+- 📑 Organizing and planning are my strengths.
+- 🏃‍♀️ I'm studying to improve the inconvenience I personally felt, and boost Backend Performance for handling large amounts of data.
 
-<br>
-
-## Introduction 🧸
-안녕하세요!<br>
-백엔드 개발자를 꿈꾸는 이하얀입니다.<br>
-개발을 하고자 하는 이유를 끊임없이 고민하며 '기록'하고 '공유'하면서 힘을 얻어 언제나 함께하고 싶은 개발자가 되기 위해 공부하고 있습니다.<br>
-관련된 기록은 아래 링크를 참고해주세요!!
-
-<br>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlgkdis801)](https://velog.io/@dlgkdis801)
-<a href="https://hayanlee.notion.site/400cad5c29f440b592064c651b115ac4?pvs=4"><img width="375" height ="131" src="https://github.com/hayannn/hayannn/assets/102213509/84b5b946-2c25-4e52-b47a-a64cce33d21e"></a>
-
-<br>
-<br>
-<br>
+Please refer to the link below for related records. <br>
+📍 [[Velog]Hayan-Dev.log](https://velog.io/@dlgkdis801) <br>
+📍[[Portfolio] 이하얀 | 고민을 기록하고 공유하는 개발자](https://hayanlee.notion.site/400cad5c29f440b592064c651b115ac4?pvs=4)
 <br>
 <br>
   
-## Stack ⚒️
+## 📚 Tech Stack
 #### Backend
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <br>
@@ -93,7 +83,7 @@
   
 ## Pin 🎯
 
-#### 팀 프로젝트
+#### Team Projects.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=humax-sw-team16&repo=Parking_Server&show_owner=true)](https://github.com/humax-sw-team16/Parking_Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sgdevcamp2022&repo=allin&show_owner=true)](https://github.com/sgdevcamp2022/allin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=JJ_Club_backend&show_owner=true)](https://github.com/hayannn/JJ_Club_backend)
@@ -102,11 +92,9 @@
 
 <br>
 
-#### 개인 프로젝트
+#### Personal Projects.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-baseball-6&show_owner=true)](https://github.com/hayannn/java-baseball-6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-racingcar-6&show_owner=true)](https://github.com/hayannn/java-racingcar-6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-lotto-6&show_owner=true)](https://github.com/hayannn/java-lotto-6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-christmas-6-hayannn&show_owner=true)](https://github.com/hayannn/java-christmas-6-hayannn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=Min_MedicalBlind_Spots_Bigdata&show_owner=true)](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata)
-
-</div>
