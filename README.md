@@ -41,7 +41,7 @@ Please refer to the link below for related records! <br>
 > <br>
 >
 > 2023.10 - 2023.11 &nbsp; **우아한테크코스 6기 프리코스**
-> Backend | - (주)우아한형제들
+> - Backend | - (주)우아한형제들
 >
 > <br>
 >  
