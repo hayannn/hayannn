@@ -15,7 +15,7 @@
 <br>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dlgkdis801)](https://velog.io/@dlgkdis801)
-<a href="https://hayanlee.notion.site/hayanlee/0e89f3a2c1b34fff9b83ccd5ca0716ea"><img width="375" height ="131" alt="포트폴리오4" src="https://github.com/hayannn/hayannn/assets/102213509/3bd2af06-132d-4e28-8202-f8a876fbeab5"></a>
+<a href="https://hayanlee.notion.site/400cad5c29f440b592064c651b115ac4?pvs=4"><img width="375" height ="131" src="https://github.com/hayannn/hayannn/assets/102213509/84b5b946-2c25-4e52-b47a-a64cce33d21e"></a>
 
 <br>
 <br>
