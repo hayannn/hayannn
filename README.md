@@ -1,17 +1,63 @@
 <img src="https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg"/>
   
-# 🥳 About Hayan
-I'm Hayannn, Backend developer. <br>
-Dream of developers who 'record' and 'share' their concerns and grow together.
+## 🥳 About Hayan
+I'm Hayannn, **Backend developer.** <br>
+Dream of developers who **Record** and **Share** their concerns and grow together.
 - 💡 I like distributing services for users and improving problems.
 - 📑 Organizing and planning are my strengths.
 - 🏃‍♀️ I'm studying to improve the inconvenience I personally felt, and boost Backend Performance for handling large amounts of data.
 
 Please refer to the link below for related records. <br>
-📍 [[Velog]Hayan-Dev.log](https://velog.io/@dlgkdis801) <br>
-📍[[Portfolio] 이하얀 | 고민을 기록하고 공유하는 개발자](https://hayanlee.notion.site/400cad5c29f440b592064c651b115ac4?pvs=4)
+✅ [Velog](https://velog.io/@dlgkdis801) &nbsp; ✨ [Portfolio](https://hayanlee.notion.site/400cad5c29f440b592064c651b115ac4?pvs=4) &nbsp; 👩‍💻 [Study Log](https://www.instagram.com/dev_kkongha?igsh=MWxzZnI5M24xOWMzdw==) <br>
+
+<details>
+<summary><strong><span style="background-color:#fff5b1">More information</strong></span></summary>
+
+### 🏆 Award.
+#### 수상
+
+> 2022.07   제3회 오아시스해커톤 **최우수상**
+> 
+> - 전남대학교 소프트웨어중심대학사업단
+> 
+> 2021.11    전주대학교 소프트웨어 부트캠프 **장려상**
+> 
+> - 전주대학교
+
+#### 활동
+
+> 2024.02 - 2024.02  **자기계발 챌린지 빡공단 43기**
+> 
+> - (주)베어유
+> 
+> 2023.11 - 2023.12   **휴맥스 드림버스 컴퍼니 인턴십**
+> 
+> - 고용노동부 미래내일 일경험 지원사업, 참여기업: (주)휴맥스모빌리티
+> 
+> 2022.11 - 2023.02   **Smilegate 윈터데브캠프 2기**
+> 
+> - (주)스마일게이트 홀딩스
+> 
+> 2021.01 - 2021.07   **Coding World News 에디터 2기**
+> 
+> - (주)코인리더스
+
+<br>
+
+### 🎓 Education
+> - 2020.03 ~ 2024.02 전주대학교 컴퓨터공학과 **과수석** 졸업
+
+<br>
+
+### 📑 Certificate
+> 리눅스 마스터 2급
+> 컴퓨터활용능력 2급
+> ITQ OA Master
+</details>
 <br>
 <br>
+
+
   
 ## 📚 Tech Stack
 #### Backend
