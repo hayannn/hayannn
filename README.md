@@ -97,9 +97,6 @@ Please refer to the link below for related records. <br>
 <br>
 <br>
 
-
-  
-## Pin 🎯
 <details>
 <summary><strong>Team Projects.</strong></summary>
   
