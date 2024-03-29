@@ -3,7 +3,7 @@
 I'm HayanLee(hayannn), **Backend developer.** <br>
 Dream of developers who **Record** and **Share** their concerns and grow together. <br><br>
 Please refer to the link below for related records! <br>
-✅ [Velog](https://velog.io/@dlgkdis801) &nbsp;&nbsp; 🧩 [Portfolio](https://hayanlee.notion.site/400cad5c29f440b592064c651b115ac4?pvs=4) &nbsp;&nbsp; 👩‍💻 [Study Log](https://www.instagram.com/dev_kkongha?igsh=MWxzZnI5M24xOWMzdw==)
+✅ [Tech Blog](https://velog.io/@dlgkdis801) &nbsp;&nbsp; 🧩 [Portfolio](https://hayanlee.notion.site/400cad5c29f440b592064c651b115ac4?pvs=4) &nbsp;&nbsp; 👩‍💻 [Study Log/@dev_kkongha](https://www.instagram.com/dev_kkongha?igsh=MWxzZnI5M24xOWMzdw==)
 
 <br>
 
