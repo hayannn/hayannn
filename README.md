@@ -1,12 +1,4 @@
-<div align="center">
-  
-<img src="https://github.com/hayannn/hayannn/blob/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
-<br>
-
-<h2> 🥳 Hi There! </h2>
+<h1> 🥳 Hi There! </h1>
 
 I'm HayanLee(hayannn), **Backend developer.** <br>
 Dream of developers who **Record** and **Share** their concerns and grow together. <br><br>
