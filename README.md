@@ -100,14 +100,13 @@ Please refer to the link below for related records! <br>
 <h2>💡 Github Info </h2>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlkgdis801)](https://solved.ac/dlkgdis801) <br>
-<div>
-    <a href="https://github.com/hayannn/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=compact&show_icons=true&count_private=true&exclude_repo=Face-Transfer-Application" style="height: 200px;">
-    </a>
-    <a href="https://github.com/hayannn/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=true&theme=default&count_private=true&hide=stars" style="height: 200px;">
-    </a>
-</div>
+<a href="https://github.com/hayannn/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayannn&layout=compact&show_icons=true&count_private=true&exclude_repo=Face-Transfer-Application" style="height: 170px;">
+</a>
+<a href="https://github.com/hayannn/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hayannn&show_icons=true&theme=default&count_private=true&hide=stars" style="height: 170px;">
+</a>
+
 
 
 <br>
