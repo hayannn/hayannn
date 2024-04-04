@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="배너" src="https://github.com/hayannn/docs-test/assets/102213509/78498d24-4e95-4ce0-a3ae-403a0e817d66">
+![배너](https://github.com/hayannn/hayannn/assets/102213509/7f994a85-d304-44fd-8759-2d7b0e8b5168)
 
 </div>
 
