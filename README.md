@@ -1,6 +1,6 @@
 <div align="center">
 
-![배너](https://github.com/hayannn/hayannn/assets/102213509/7f994a85-d304-44fd-8759-2d7b0e8b5168)
+![1712190642358.png](https://github.com/hayannn/hayannn/assets/102213509/352baccb-9098-4a0e-90e3-2ebcd59fe2cd)
 
 </div>
 
