@@ -7,8 +7,16 @@
 
 <h1> 🥳 Hi There! </h1>
 
-I'm HayanLee(hayannn), **Backend developer.** <br>
+I'm HayanLee(hayannn), **Backend developer & Data Scientist.** <br>
 Dream of developers who **Record** and **Share** their concerns and grow together. <br><br>
+
+> 🚨 Currently, I'm learning **data science** dreaming of becoming a data scientist!
+>
+> 2024.10 - current   &nbsp;  **AIFFEL(아이펠) 데이터사이언티스트 전문 과정 3기**
+> - 데이터사이언티스트 | (주)모두의 연구소
+
+<br>
+
 Please refer to the link below for related records! <br>
 ✅ [Tech Blog](https://velog.io/@dlgkdis801) &nbsp;&nbsp; 🧩 [Portfolio](https://hayanlee.notion.site/400cad5c29f440b592064c651b115ac4?pvs=4) &nbsp;&nbsp; 👩‍💻 [Study Log/@dev_kkongha](https://www.instagram.com/dev_kkongha?igsh=MWxzZnI5M24xOWMzdw==)
 
@@ -60,6 +68,8 @@ Please refer to the link below for related records! <br>
 <br>
 
 ### 📑 Certificate
+> SQLD
+> 
 > 리눅스 마스터 2급
 > 
 > 컴퓨터활용능력 2급
