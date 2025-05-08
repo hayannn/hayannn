@@ -7,15 +7,8 @@
 
 <h1> 🥳 Hi There! </h1>
 
-I'm HayanLee(hayannn), **Data Scientist & Backend developer.** <br>
-Dream of becoming a new data scientist who builds data-centric AI systems based on backend development experience, records and shares the process, and grows together with others.<br><br>
-
-> 🚨 Currently, I'm learning **data science** dreaming of becoming a data scientist!
->
-> 2024.10 - 2025.03   &nbsp;  **AIFFEL(아이펠) 데이터사이언티스트 전문 과정 3기**
-> - 데이터사이언티스트 | (주)모두의 연구소
-
-<br>
+I'm HayanLee(hayannn), **Data Scientist(AI Engineer) & Backend developer.** <br>
+Dream of becoming a new data scientist(AI Engineer) who builds data-centric AI systems based on backend development experience, records and shares the process, and grows together with others.<br><br>
 
 Please refer to the link below for related records! <br>
 ✅ [Tech Blog](https://velog.io/@dlgkdis801) &nbsp;&nbsp; 🧩 [Portfolio](https://hayanlee.notion.site/AI-187022a887d980c29a36ebfdaec65b38?pvs=4) &nbsp;&nbsp; 👩‍💻 [Study Log/@dev_kkongha](https://www.instagram.com/dev_kkongha?igsh=MWxzZnI5M24xOWMzdw==)
@@ -70,9 +63,11 @@ Please refer to the link below for related records! <br>
 ### 🎓 Education
 > 2020.03 ~ 2024.02 전주대학교 컴퓨터공학과 **과수석** 졸업
 
+</details>
 <br>
 
-### 📑 Certificate
+<h2> 💳  Certificate </h2>
+
 > ADsP
 > 
 > SQLD
@@ -166,10 +161,23 @@ Please refer to the link below for related records! <br>
 
 
 <br>
+<br>
+
+<h2>📍 Projects </h2>
 
 <details>
-<summary><strong>Team Projects.</strong></summary>
-  
+<summary><strong>⭐️ Team Projects.</strong></summary>
+
+### Data
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DS3th-AIFFEELTHON&repo=Bogosa&show_owner=true)](https://github.com/DS3th-AIFFEELTHON/Bogosa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=FinPin_LangchainTon&show_owner=true)](https://github.com/hayannn/FinPin_LangchainTon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=MeMI_ALFFEL_DATATHON&show_owner=true)](https://github.com/hayannn/MeMI_ALFFEL_DATATHON)
+
+<br>
+
+### Backend
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=humax-sw-team16&repo=Parking_Server&show_owner=true)](https://github.com/humax-sw-team16/Parking_Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sgdevcamp2022&repo=allin&show_owner=true)](https://github.com/sgdevcamp2022/allin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=JJ_Club_backend&show_owner=true)](https://github.com/hayannn/JJ_Club_backend)
@@ -179,11 +187,30 @@ Please refer to the link below for related records! <br>
 </details>
 
 <details>
-<summary><strong>Personal Projects.</strong></summary>
-  
+
+<br>
+<br>
+
+<summary><strong>⭐️ Personal Projects.</strong></summary>
+
+### Data
+1. [[Kaggle] Credit Card Fraud Detection](https://www.kaggle.com/competitions/aiffel-ds-3-credit-card-fraud-detection)
+
+2. AIFFEL_MAIN_QUEST <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=AIFFEL_MAIN_QUEST&show_owner=true)](https://github.com/hayannn/AIFFEL_MAIN_QUEST/tree/main/Appendix/NewsCategoryMultipleClassification)
+- [뉴스 카테코리 다중 분류](https://github.com/hayannn/AIFFEL_MAIN_QUEST/tree/main/Appendix/NewsCategoryMultipleClassification)
+- [가위바위보 분류기 프로젝트](https://github.com/hayannn/AIFFEL_MAIN_QUEST/tree/main/Appendix/NewsCategoryMultipleClassification)
+- [DL Model Project](https://github.com/hayannn/AIFFEL_MAIN_QUEST/tree/main/MiniProject6)
+
+3. 기초 데이터 분석 프로젝트 <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=Min_MedicalBlind_Spots_Bigdata&show_owner=true)](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata)
+
+<br>
+
+### Backend
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-baseball-6&show_owner=true)](https://github.com/hayannn/java-baseball-6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-racingcar-6&show_owner=true)](https://github.com/hayannn/java-racingcar-6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-lotto-6&show_owner=true)](https://github.com/hayannn/java-lotto-6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=java-christmas-6-hayannn&show_owner=true)](https://github.com/hayannn/java-christmas-6-hayannn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayannn&repo=Min_MedicalBlind_Spots_Bigdata&show_owner=true)](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata)
+
 </details>
