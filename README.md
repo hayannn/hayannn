@@ -89,9 +89,7 @@ Please refer to the link below for related records! <br>
 <h2> 📚 Tech Stack </h2>
 
 ### 📂 Language & Data
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white"> <br>
-> <img src="https://img.shields.io/badge/sql-white?style=for-the-badge&logo=SQL&logoColor=white"> <br>
-> <img src="https://img.shields.io/badge/bigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/bigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
 
 > <img src="https://img.shields.io/badge/Visualization-white?style=for-the-badge&logo=Visualization&logoColor=black"> <br>
 > - **Matplotlib**, Pyplot, Seaborn
@@ -106,8 +104,7 @@ Please refer to the link below for related records! <br>
 <br>
 
 ### 📂 LangChain
-> <img src="https://img.shields.io/badge/LLM-white?style=for-the-badge&logo=LLM&logoColor=white"> <br>
-> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white"> <img src="https://img.shields.io/badge/Upstage-9A2EFE?style=for-the-badge&logo=Upstage&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white"> <img src="https://img.shields.io/badge/Upstage-9A2EFE?style=for-the-badge&logo=Upstage&logoColor=white">
 
 > <img src="https://img.shields.io/badge/VectorDB-white?style=for-the-badge&logo=VectorDB&logoColor=white"> <br>
 > - BM25, **KiwiBM25**
@@ -124,8 +121,9 @@ Please refer to the link below for related records! <br>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 > **Deploy** <br>
-> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/awsec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <br>
+> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/awsec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/streamlitcloud-FF4B4B?style=for-the-badge&logo=streamlitcloud&logoColor=white">
 >
 > **Collaboration** <br>
