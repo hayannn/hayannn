@@ -18,7 +18,7 @@ Dream of becoming a new data scientist who builds data-centric AI systems based 
 <br>
 
 Please refer to the link below for related records! <br>
-✅ [Tech Blog](https://velog.io/@dlgkdis801) &nbsp;&nbsp; 🧩 [Portfolio](https://hayanlee.notion.site/187022a887d980c29a36ebfdaec65b38?pvs=4) &nbsp;&nbsp; 👩‍💻 [Study Log/@dev_kkongha](https://www.instagram.com/dev_kkongha?igsh=MWxzZnI5M24xOWMzdw==)
+✅ [Tech Blog](https://velog.io/@dlgkdis801) &nbsp;&nbsp; 🧩 [Portfolio](https://hayanlee.notion.site/AI-187022a887d980c29a36ebfdaec65b38?pvs=4) &nbsp;&nbsp; 👩‍💻 [Study Log/@dev_kkongha](https://www.instagram.com/dev_kkongha?igsh=MWxzZnI5M24xOWMzdw==)
 
 <br>
 
@@ -88,29 +88,70 @@ Please refer to the link below for related records! <br>
   
 <h2> 📚 Tech Stack </h2>
 
-### 📂 Language
-> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
+### 📂 Language & Data
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white"> <br>
+> <img src="https://img.shields.io/badge/sql-white?style=for-the-badge&logo=SQL&logoColor=white"> <br>
+> <img src="https://img.shields.io/badge/bigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
+
+> <img src="https://img.shields.io/badge/Visualization-white?style=for-the-badge&logo=Visualization&logoColor=black"> <br>
+> - **Matplotlib**, Pyplot, Seaborn
+
+> <img src="https://img.shields.io/badge/Machine Learning-white?style=for-the-badge&logo=MachineLearning&logoColor=white"> <br>
+> - Linear Regression, Logistic Regression, Decision Tree
+> - **Random Forest**, LightGBM, **XGBoost**
+
+> <img src="https://img.shields.io/badge/Deep Learning-white?style=for-the-badge&logo=DeepLearning&logoColor=white"> <br>
+> - **TensorFlow**, CNN, AutoInt, AutoInt+
+
 <br>
 
-### 📂 Backend
-> **Framework** <br>
-> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
->
-> **Database** <br>
-<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring Data JPA&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=Redis&logoColor=white"/>
->
+### 📂 LangChain
+> <img src="https://img.shields.io/badge/LLM-white?style=for-the-badge&logo=LLM&logoColor=white"> <br>
+> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white"> <img src="https://img.shields.io/badge/Upstage-9A2EFE?style=for-the-badge&logo=Upstage&logoColor=white">
+
+> <img src="https://img.shields.io/badge/VectorDB-white?style=for-the-badge&logo=VectorDB&logoColor=white"> <br>
+> - BM25, **KiwiBM25**
+
+> <img src="https://img.shields.io/badge/Retriever-white?style=for-the-badge&logo=Retriever&logoColor=white"> <br>
+> - **Milvus**, Chroma, FAISS
+
+> <img src="https://img.shields.io/badge/DataType-white?style=for-the-badge&logo=DataType&logoColor=white"> <br>
+> - Document(PDF, json, jsonl) , API(Naver Search API)
 
 <br>
 
 ### 📂 Tools
-> **IDE** <br>
-> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/> 
->
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+
 > **Deploy** <br>
-> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/awsec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/awsrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/awsec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/streamlitcloud-FF4B4B?style=for-the-badge&logo=streamlitcloud&logoColor=white">
 >
 > **Collaboration** <br>
 > <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+
+
+<br>
+
+### 📂 Etc
+> **OS** : MacOS, Windows, Linux(CentOS)
+> 
+> **Backend** <br>
+> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+>
+> **Frontend** <br>
+> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+>
+> **Database** <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=Redis&logoColor=white"/>
+>
+> **IDE** <br>
+<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea-white&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio-white&logoColor=white"> 
+
+
+
+
 <br>
 <br>
 
