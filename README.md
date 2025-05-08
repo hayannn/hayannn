@@ -86,29 +86,41 @@ Please refer to the link below for related records! <br>
 ### 📂 Language & Data
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/bigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
 
-> <img src="https://img.shields.io/badge/Visualization-white?style=for-the-badge&logo=Visualization&logoColor=black"> <br>
-> - **Matplotlib**, Pyplot, Seaborn
-
-> <img src="https://img.shields.io/badge/Machine Learning-white?style=for-the-badge&logo=MachineLearning&logoColor=white"> <br>
-> - Linear Regression, Logistic Regression, Decision Tree
-> - **Random Forest**, LightGBM, **XGBoost**
-
-> <img src="https://img.shields.io/badge/Deep Learning-white?style=for-the-badge&logo=DeepLearning&logoColor=white"> <br>
-> - **TensorFlow**, CNN, AutoInt, AutoInt+
+<table>
+  <tr>
+    <td><strong>Visualization</strong></td>
+    <td><strong>Matplotlib</strong>, Pyplot, Seaborn</td>
+  </tr>
+  <tr>
+    <td><strong>Machine Learning</strong></td>
+    <td>Linear Regression, Logistic Regression, Decision Tree,<br>
+      <strong>Random Forest</strong>, LightGBM, <strong>XGBoost</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Deep Learning</strong></td>
+    <td><strong>TensorFlow</strong>, CNN, AutoInt, AutoInt+</td>
+  </tr>
+</table>
 
 <br>
 
 ### 📂 LangChain
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white"> <img src="https://img.shields.io/badge/Upstage-9A2EFE?style=for-the-badge&logo=Upstage&logoColor=white">
 
-> <img src="https://img.shields.io/badge/VectorDB-white?style=for-the-badge&logo=VectorDB&logoColor=white"> <br>
-> - BM25, **KiwiBM25**
-
-> <img src="https://img.shields.io/badge/Retriever-white?style=for-the-badge&logo=Retriever&logoColor=white"> <br>
-> - **Milvus**, Chroma, FAISS
-
-> <img src="https://img.shields.io/badge/DataType-white?style=for-the-badge&logo=DataType&logoColor=white"> <br>
-> - Document(PDF, json, jsonl) , API(Naver Search API)
+<table>
+  <tr>
+    <td><strong>Vector DB</strong></td>
+    <td>BM25, <strong>KiwiBM25</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Retriever</strong></td>
+    <td><strong>Milvus</strong>, Chroma, FAISS</td>
+  </tr>
+  <tr>
+    <td><strong>Data Type</strong></td>
+    <td>Document(PDF, json, jsonl), API(Naver Search API)</td>
+  </tr>
+</table>
 
 <br>
 
@@ -188,8 +200,6 @@ Please refer to the link below for related records! <br>
 
 <details>
 
-<br>
-<br>
 
 <summary><strong>⭐️ Personal Projects.</strong></summary>
 
